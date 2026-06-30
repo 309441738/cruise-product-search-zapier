@@ -1,0 +1,10 @@
+{
+  "title": "cruise-product-search",
+  "description": "通过关键词快速搜索邮轮产品，方便用户快速找到心仪的邮轮。",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
