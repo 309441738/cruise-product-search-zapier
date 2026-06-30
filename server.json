@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.309441738/cruise-product-search",
+  "description": "通过关键词快速搜索邮轮产品，方便用户快速找到心仪的邮轮。",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cruise-mcp.olavacations.com/api/gw/mcp/375ad660-7648-4f12-84b2-1ac95b72ea83"
+    }
+  ]
+}
